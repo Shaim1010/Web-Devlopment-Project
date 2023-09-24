@@ -35,3 +35,12 @@ CSS: Styled the layout and appearance to mimic a realistic calculator.
 JavaScript: Implemented the logic for performing arithmetic operations and displaying results.
 
 # Images:
+
+![image](https://github.com/Shaim1010/Web-Devlopment-Project/assets/93538432/235ead79-5764-4ea7-9f5a-2f141f4ab5aa)
+
+![image](https://github.com/Shaim1010/Web-Devlopment-Project/assets/93538432/4500af6b-e7c2-4c71-8cbd-9ba804427c6b)
+
+![image](https://github.com/Shaim1010/Web-Devlopment-Project/assets/93538432/1112bdb0-af44-4747-a329-665cd98fb021)
+
+
+
